@@ -1,0 +1,9 @@
+packages:
+  "framer-motion": "For smooth page transitions and micro-interactions"
+  "canvas-confetti": "For celebration effect upon landing"
+  "@types/canvas-confetti": "Types for canvas-confetti"
+images: []
+notes:
+  - "App is fully client-side, no backend needed."
+  - "Uses Web Audio API for the cabin sound simulation."
+  - "Uses Haversine formula for calculating focus duration based on selected cities."
